@@ -7,14 +7,14 @@ Archive includes:
 - Dimension Reduction;
 - Association rules;
 - Recommendation systems.
-
-Archive topics that are not presented yet:
-
-- Metrics;
+- Ranking;
 - Linear regression;
 - Regularization;
 - Logistic regression;
 - SVM and KNN;
+
+Archive topics that are not presented yet:
+
 - Generalized Linear Models;
 - Autoregression models;
 - Classification and Regression trees;
